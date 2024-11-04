@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Heriberto Zu\u00F1iga\\Documents\\GitHub\\APIArduino\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A5A731-22C2-4A4C-B042-1CEA11461CF0}|ArduinoTemperatureAPI\\ArduinoTemperatureAPI.csproj|c:\\users\\heriberto zu\u00F1iga\\documents\\github\\apiarduino\\arduinotemperatureapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7A5A731-22C2-4A4C-B042-1CEA11461CF0}|ArduinoTemperatureAPI\\ArduinoTemperatureAPI.csproj|solutionrelative:arduinotemperatureapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A5A731-22C2-4A4C-B042-1CEA11461CF0}|ArduinoTemperatureAPI\\ArduinoTemperatureAPI.csproj|c:\\users\\heriberto zu\u00F1iga\\documents\\github\\apiarduino\\arduinotemperatureapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7A5A731-22C2-4A4C-B042-1CEA11461CF0}|ArduinoTemperatureAPI\\ArduinoTemperatureAPI.csproj|solutionrelative:arduinotemperatureapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A5A731-22C2-4A4C-B042-1CEA11461CF0}|ArduinoTemperatureAPI\\ArduinoTemperatureAPI.csproj|c:\\users\\heriberto zu\u00F1iga\\documents\\github\\apiarduino\\arduinotemperatureapi\\controllers\\temperaturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A5A731-22C2-4A4C-B042-1CEA11461CF0}|ArduinoTemperatureAPI\\ArduinoTemperatureAPI.csproj|solutionrelative:arduinotemperatureapi\\controllers\\temperaturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Heriberto Zu\u00F1iga\\Documents\\GitHub\\APIArduino\\ArduinoTemperatureAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ArduinoTemperatureAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Heriberto Zu\u00F1iga\\Documents\\GitHub\\APIArduino\\ArduinoTemperatureAPI\\appsettings.json",
+              "RelativeToolTip": "ArduinoTemperatureAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T01:38:28.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Heriberto Zu\u00F1iga\\Documents\\GitHub\\APIArduino\\ArduinoTemperatureAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ArduinoTemperatureAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Heriberto Zu\u00F1iga\\Documents\\GitHub\\APIArduino\\ArduinoTemperatureAPI\\appsettings.Development.json",
+              "RelativeToolTip": "ArduinoTemperatureAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T01:34:35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemperatureController.cs",
+              "DocumentMoniker": "C:\\Users\\Heriberto Zu\u00F1iga\\Documents\\GitHub\\APIArduino\\ArduinoTemperatureAPI\\Controllers\\TemperatureController.cs",
+              "RelativeDocumentMoniker": "ArduinoTemperatureAPI\\Controllers\\TemperatureController.cs",
+              "ToolTip": "C:\\Users\\Heriberto Zu\u00F1iga\\Documents\\GitHub\\APIArduino\\ArduinoTemperatureAPI\\Controllers\\TemperatureController.cs",
+              "RelativeToolTip": "ArduinoTemperatureAPI\\Controllers\\TemperatureController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:34:15.755Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Heriberto Zuñiga\\Desktop\\Sistemas Programables\\ArduinoTemperatureAPI\\ArduinoTemperatureAPI\\ArduinoTemperatureAPI.csproj": {}
+    "C:\\Users\\Heriberto Zuñiga\\Documents\\GitHub\\APIArduino\\ArduinoTemperatureAPI\\ArduinoTemperatureAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Heriberto Zuñiga\\Desktop\\Sistemas Programables\\ArduinoTemperatureAPI\\ArduinoTemperatureAPI\\ArduinoTemperatureAPI.csproj": {
+    "C:\\Users\\Heriberto Zuñiga\\Documents\\GitHub\\APIArduino\\ArduinoTemperatureAPI\\ArduinoTemperatureAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Heriberto Zuñiga\\Desktop\\Sistemas Programables\\ArduinoTemperatureAPI\\ArduinoTemperatureAPI\\ArduinoTemperatureAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Heriberto Zuñiga\\Documents\\GitHub\\APIArduino\\ArduinoTemperatureAPI\\ArduinoTemperatureAPI.csproj",
         "projectName": "ArduinoTemperatureAPI",
-        "projectPath": "C:\\Users\\Heriberto Zuñiga\\Desktop\\Sistemas Programables\\ArduinoTemperatureAPI\\ArduinoTemperatureAPI\\ArduinoTemperatureAPI.csproj",
+        "projectPath": "C:\\Users\\Heriberto Zuñiga\\Documents\\GitHub\\APIArduino\\ArduinoTemperatureAPI\\ArduinoTemperatureAPI.csproj",
         "packagesPath": "C:\\Users\\Heriberto Zuñiga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Heriberto Zuñiga\\Desktop\\Sistemas Programables\\ArduinoTemperatureAPI\\ArduinoTemperatureAPI\\obj\\",
+        "outputPath": "C:\\Users\\Heriberto Zuñiga\\Documents\\GitHub\\APIArduino\\ArduinoTemperatureAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Heriberto Zuñiga\\AppData\\Roaming\\NuGet\\NuGet.Config",

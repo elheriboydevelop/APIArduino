@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s1cH5jrFtHo=",
+  "dgSpecHash": "xnMfi/Iin4A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Heriberto Zuñiga\\Desktop\\Sistemas Programables\\ArduinoTemperatureAPI\\ArduinoTemperatureAPI\\ArduinoTemperatureAPI.csproj",
+  "projectFilePath": "C:\\Users\\Heriberto Zuñiga\\Documents\\GitHub\\APIArduino\\ArduinoTemperatureAPI\\ArduinoTemperatureAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Heriberto Zuñiga\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
     "C:\\Users\\Heriberto Zuñiga\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",
